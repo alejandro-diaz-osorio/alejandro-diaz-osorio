@@ -52,8 +52,6 @@ My career includes experience in various fields:
 
 [![Alejo's G𝚒𝚝H𝚞𝚋 G𝚛𝚊𝚙𝚑](https://github-readme-stats.vercel.app/api?username=alejandro-diaz-osorio&show_icons=true&theme=dark)](https://github.com/alejandro-diaz-osorio)
 
-[![Alejo's G𝚒𝚝H𝚞𝚋 Stats](https://github-readme-streak-stats.herokuapp.com/?user=alejandro-diaz-osorio&theme=dark)](https://github.com/alejandro-diaz-osorio)
-
 [![Alejo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-diaz-osorio&theme=dark)](https://github.com/alejandro-diaz-osorio)
 
 </div>
